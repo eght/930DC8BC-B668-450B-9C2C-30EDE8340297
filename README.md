@@ -2,3 +2,7 @@
 
 C:\Program Files (x86)\CWEB\bin\cweave.exe
 C:\Program Files (x86)\CWEB\bin\ctangle.exe
+compile web file
+
+cweave.exe test.w
+ctangle.exe test.w
